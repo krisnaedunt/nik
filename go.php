@@ -15,7 +15,7 @@ $ktp = $data3[0];
 $kk = $data3[1];
 //$data4 = array('KTP' => $ktp, 'NO_KK' => $kk);
 //print(json_encode(array('src'=>'Hasil', 'result'=>$data4)));
-echo " Thanks To;\e[92m Semoga Bermanfaat\n\n";
+echo " \e[92m Semoga Bermanfaat\n\n";
 echo "No. KTP : ".$ktp."\n";
 echo "No. KK  : ".$kk."\n";
 ?>
