@@ -22,7 +22,7 @@ $cyan = "\e[36m";
 $bold   = "\e[1m";
 function kkktp_banner(){
   echo "\e[91;1m
-  ================[+]================\n";
+ ================[+]================\n";
  echo "\e[92m         KK / KTP Generator\n";
  echo "\e[35m             Versi 1.2\n";
  echo "\e[93m     Channel Youtube : TermuxID\n";
